@@ -1,0 +1,10 @@
+certifi==2021.5.30
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+numpy @ file:///D:/bld/numpy_1629092219550/work
+pyforest==1.1.0
+scikit-learn @ file:///D:/bld/scikit-learn_1630910680760/work
+scipy @ file:///C:/bld/scipy_1628206526167/work
+sklearn==0.0
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1626092076920/work
+wincertstore==0.2
+xgboost==1.4.2
